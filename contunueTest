@@ -1,0 +1,2 @@
+通过SSH连接github/检测SSH key是否可用
+ssh git@github.com
